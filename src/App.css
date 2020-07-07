@@ -38,15 +38,15 @@
 .input input:focus {
   outline: none;
 }
-.input img:not(:last-child) {
+.input img {
   opacity: 0.5;
   width: 17px;
   height: auto;
   padding: 0 10px 0 15px;
 }
-.input img:last-child {
-  width: auto;
-  max-height: 25px;
+.input svg {
+  min-width: 25px;
+  height: 25px;
   padding: 0 15px;
 }
 .input + div button {
