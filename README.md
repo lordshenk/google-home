@@ -1,4 +1,4 @@
-# google-home  
+# google home  page
 Created with CodeSandbox  
 Using ReactJs  
-### [Google homepage](https://s8guh.csb.app/)
+### [View Project](https://s8guh.csb.app/)
